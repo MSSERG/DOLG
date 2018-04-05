@@ -131,7 +131,7 @@ SetTextColor             221 0 255
 SetBackgroundColor       0 0 0
 SetBorderColor           221 0 255
 SetFontSize              24
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 100
 
 Show
 Class                    "Pantheon Soul"
@@ -139,7 +139,7 @@ SetTextColor             221 0 255
 SetBackgroundColor       0 0 0
 SetBorderColor           221 0 255
 SetFontSize              24
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 100
 
 Show
 Class                    "Stackable Currency"
@@ -182,7 +182,7 @@ SetTextColor             200 200 200
 SetBackgroundColor       0 0 0
 SetBorderColor           200 200 200
 SetFontSize              24
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 100
 
 Show
 Class                    "Leaguestone"
@@ -191,7 +191,7 @@ SetTextColor             221 0 255
 SetBackgroundColor       0 0 0
 SetBorderColor           221 0 255
 SetFontSize              24
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 100
 
 Show
 Class                    "Misc Map Items"
@@ -199,14 +199,14 @@ BaseType                 "Ancient Reliquary Key"
 SetTextColor             255 165 0
 SetBackgroundColor       0 0 0
 SetBorderColor           255 215 0
-SetFontSize              24
+SetFontSize              45
 PlayAlertSoundPositional 1 300
 
 # Disabled Block End
 Show
 Class                    "Misc Map Items"
 BaseType                 "Breachstone"
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 100
 SetFontSize              24
 
 Show
@@ -216,7 +216,7 @@ SetTextColor             220 144 252
 SetBackgroundColor       106 5 148
 SetBorderColor           62 8 87 221
 SetFontSize              24
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 100
 
 Show
 Class                    "Stackable Currency"
@@ -225,7 +225,7 @@ SetTextColor             255 108 196
 SetBackgroundColor       158 34 106
 SetBorderColor           210 0 220
 SetFontSize              24
-PlayAlertSoundPositional 3 250
+PlayAlertSoundPositional 3 100
 
 Show
 Class                    "Stackable Currency"
@@ -234,14 +234,14 @@ SetTextColor             217 217 217
 SetBackgroundColor       106 5 148
 SetBorderColor           62 8 87 221
 SetFontSize              24
-PlayAlertSoundPositional 3 250
+PlayAlertSoundPositional 3 100
 
 Show
 Class                    "Rings"
 BaseType                 "Breach Ring"
 SetTextColor             201 71 255
 SetFontSize              24
-PlayAlertSoundPositional 2 250
+PlayAlertSoundPositional 2 50
 
 Show
 Class                    "Currency"
@@ -259,7 +259,7 @@ SetTextColor             30 188 255
 SetBackgroundColor       55 76 84 215
 SetBorderColor           30 188 255 194
 SetFontSize              24
-PlayAlertSoundPositional 3 150
+PlayAlertSoundPositional 3 25
 
 Show
 BaseType                 "Silver Coin"
@@ -267,7 +267,7 @@ SetTextColor             221 0 255
 SetBackgroundColor       0 0 0
 SetBorderColor           221 0 255
 SetFontSize              24
-PlayAlertSoundPositional 3 250
+PlayAlertSoundPositional 3 15
 
 Show
 Class                    "Currency"
@@ -284,7 +284,7 @@ SetTextColor             187 92 255
 SetBackgroundColor       0 0 0
 SetBorderColor           200 200 200
 SetFontSize              24
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 300
 
 Show
 BaseType                 "Perandus Coin"
@@ -292,7 +292,7 @@ SetTextColor             255 249 124
 SetBackgroundColor       207 176 46 185
 SetBorderColor           253 255 0
 SetFontSize              24
-PlayAlertSoundPositional 3 250
+PlayAlertSoundPositional 3 10
 
 Show
 BaseType                 "Talisman"
@@ -300,7 +300,7 @@ SetTextColor             165 214 17
 SetBackgroundColor       57 69 57
 SetBorderColor           165 214 17
 SetFontSize              24
-PlayAlertSoundPositional 3 250
+PlayAlertSoundPositional 3 50
 
 Show
 BaseType                 "Portal Scroll" "Scroll of Wisdom"
@@ -328,14 +328,14 @@ BaseType                 "Cartographer's Sextant" "Cartographer's Seal"
 SetTextColor             242 78 117
 SetBorderColor           242 78 117
 SetFontSize              24
-PlayAlertSoundPositional 2 250
+PlayAlertSoundPositional 2 150
 
 Show
 Class                    "Currency"
 SetTextColor             242 78 117
 SetBorderColor           242 78 117
 SetFontSize              24
-PlayAlertSoundPositional 2 250
+PlayAlertSoundPositional 2 15
 
 Show
 Rarity                   = Unique
@@ -344,12 +344,12 @@ SetTextColor             175 96 37
 SetBackgroundColor       0 0 0
 SetBorderColor           175 96 37
 SetFontSize              24
-PlayAlertSoundPositional 4 250
+PlayAlertSoundPositional 4 100
 
 Show
 Rarity                   = Unique
 SetFontSize              24
-PlayAlertSoundPositional 4 250
+PlayAlertSoundPositional 4 50
 
 Show
 LinkedSockets            >= 5
@@ -357,14 +357,14 @@ SetTextColor             52 234 204
 SetBackgroundColor       0 0 0
 SetBorderColor           52 234 204
 SetFontSize              24
-PlayAlertSoundPositional 2 250
+PlayAlertSoundPositional 2 100
 
 Show
 Sockets = 6
 SetTextColor             242 78 117
 SetBorderColor           30 144 255
 SetFontSize              24
-PlayAlertSoundPositional 2 250
+PlayAlertSoundPositional 2 200
 
 Hide # Три разноцветных соеденённых гнезда ---------------#
 SocketGroup              "RGB"
@@ -432,7 +432,7 @@ SetTextColor             255 110 255
 SetBackgroundColor       28 0 0
 SetBorderColor           255 110 255
 SetFontSize              24
-PlayAlertSoundPositional 3 250
+PlayAlertSoundPositional 3 50
 
 Show
 Class                    "Labyrinth Map Item"
@@ -440,7 +440,7 @@ SetTextColor             32 195 187
 SetBackgroundColor       50 20 20
 SetBorderColor           31 199 190
 SetFontSize              24
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 150
 
 # Labyrinth
 Show
@@ -449,7 +449,7 @@ SetTextColor             32 195 187
 SetBackgroundColor       50 20 20
 SetBorderColor           31 199 190
 SetFontSize              24
-PlayAlertSoundPositional 6 100
+PlayAlertSoundPositional 6 50
 
 # Labyrinth Keys
 Show
@@ -458,7 +458,7 @@ SetTextColor             32 195 187
 SetBackgroundColor       50 20 20
 SetBorderColor           31 199 190
 SetFontSize              24
-PlayAlertSoundPositional 6 100
+PlayAlertSoundPositional 6 200
 
 Show # Гадальные карты -----------------------------------#
 Class                    "Divination Card"
@@ -474,7 +474,7 @@ SetTextColor             250 107 250
 SetBackgroundColor       50 8 77 190
 SetBorderColor           176 81 176
 SetFontSize              24
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 150
 
 Show
 BaseType                 "Mortal Ignorance" "Mortal Rage" "Mortal Grief" "Mortal Hope"
@@ -482,7 +482,7 @@ SetTextColor             255 0 0
 SetBackgroundColor       0 0 0
 SetBorderColor           255 0 0
 SetFontSize              24
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 200
 
 Show # Обрывки карт --------------------------------------#
 Class                    "Map Fragments"
@@ -490,7 +490,7 @@ SetTextColor             200 200 200
 SetBackgroundColor       0 0 0
 SetBorderColor           200 200 200
 SetFontSize              24
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 150
 
 Show
 ShapedMap                True
@@ -499,14 +499,14 @@ Class                    "Maps"
 SetTextColor             255 0 0
 SetBorderColor           255 0 0
 SetFontSize              24
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 100
 
 Show
 ShapedMap                True
 Class                    "Maps"
 SetBackgroundColor       96 96 0
 SetFontSize              24
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 100
 
 Show
 DropLevel                >= 78
@@ -514,7 +514,7 @@ Class                    "Maps"
 SetTextColor             255 0 0
 SetBorderColor           255 0 0
 SetFontSize              24
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 100
 
 Show
 DropLevel                >= 73
@@ -522,7 +522,7 @@ Class                    "Maps"
 SetTextColor             0 0 255
 SetBorderColor           0 0 255
 SetFontSize              24
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 100
 
 Show
 DropLevel                >= 68
@@ -530,13 +530,13 @@ Class                    "Maps"
 SetTextColor             255 255 255
 SetBorderColor           255 255 255
 SetFontSize              24
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 100
 
 Show
 Class                    "Maps"
 SetTextColor             255 255 255
 SetFontSize              24
-PlayAlertSoundPositional 7 270
+PlayAlertSoundPositional 7 100
 
 Show
 Class                    "Gem"
