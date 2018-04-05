@@ -1,0 +1,2 @@
+# DOLG
+Loot Filter
