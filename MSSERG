@@ -399,3 +399,10 @@ SetFontSize              24
 PlayAlertSoundPositional 9 50
 
 # - - - - - - - - - - - -
+
+Show
+Corrupted                True
+Rarity                   = Rare
+SetFontSize              24
+
+# - - - - - - - - - - - -
