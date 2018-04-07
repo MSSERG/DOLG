@@ -107,6 +107,14 @@ SetFontSize              24
 # - - - - - - - - - - - -
 
 Show
+Class                    "Maps"
+Rarity                   = Unique
+SetTextColor             0 0 0
+SetBackgroundColor       160 96 32
+SetBorderColor           0 0 0
+SetFontSize              24
+
+Show
 Rarity                   = Unique
 SetBorderColor           160 96 32
 SetFontSize              24
