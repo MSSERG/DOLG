@@ -27,3 +27,36 @@ SetBorderColor           160 160 160
 SetFontSize              24
 
 # - - - - - - - - - - - -
+
+Show
+BaseType                 "Apprentice Cartographer's Sextant" "Blacksmith's Whetstone" "Armourer's Scrap" "Orb of Transmutation" "Orb of Augmentation"
+SetTextColor             255 255 255
+SetBackgroundColor       0 0 0
+SetBorderColor           255 255 255
+SetFontSize              24
+
+Show
+BaseType                 "Journeyman Cartographer's Sextant" "Orb of Alteration" "Chromatic Orb" "Jeweller's Orb" "Orb of Chance" "Orb of Alchemy" "Orb of Fusing" "Cartographer's Chisel" "Silver Coin"
+SetTextColor             0 128 255
+SetBackgroundColor       0 0 0
+SetBorderColor           0 128 255
+SetFontSize              24
+PlayAlertSoundPositional 3 3
+
+Show
+BaseType                 "Master Cartographer's Sextant" "Vaal Orb" "Chaos Orb" "Orb of Regret" "Regal Orb" "Gemcutter's Prism" "Orb of Scouring" "Blessed Orb" "Glassblower's Bauble"
+SetTextColor             255 32 0
+SetBackgroundColor       0 0 0
+SetBorderColor           255 32 0
+SetFontSize              24
+PlayAlertSoundPositional 2 10
+
+Show
+BaseType                 "Mirror of Kalandra" "Eternal Orb" "Exalted Orb" "Divine Orb" "Albino Rhoa Feather" "Fishing Rod"
+SetTextColor             255 255 0
+SetBackgroundColor       0 0 0
+SetBorderColor           255 255 0
+SetFontSize              45
+PlayAlertSoundPositional 1 300
+
+# - - - - - - - - - - - -
