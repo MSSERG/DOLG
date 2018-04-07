@@ -352,3 +352,28 @@ SetFontSize              24
 PlayAlertSoundPositional 16 10
 
 # - - - - - - - - - - - -
+
+Show
+BaseType                 "Necromancy Net"
+SetTextColor             255 0 0
+SetBackgroundColor       64 32 64
+SetBorderColor           160 160 160
+SetFontSize              24
+PlayAlertSoundPositional 15 5
+
+Show
+BaseType                 "Thaumaturgical Net"
+SetTextColor             0 128 255
+SetBackgroundColor       64 32 64
+SetBorderColor           160 160 160
+SetFontSize              24
+PlayAlertSoundPositional 15 5
+
+Show
+BaseType                 "Strong Steel Net"
+SetTextColor             160 160 160
+SetBackgroundColor       64 32 64
+SetBorderColor           160 160 160
+SetFontSize              24
+
+# - - - - - - - - - - - -
