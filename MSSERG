@@ -29,7 +29,7 @@ SetFontSize              24
 # - - - - - - - - - - - -
 
 Show
-BaseType                 "Apprentice Cartographer's Sextant" "Blacksmith's Whetstone" "Armourer's Scrap" "Orb of Transmutation" "Orb of Augmentation"
+BaseType                 "Apprentice Cartographer's Sextant" "Blacksmith's Whetstone" "Armourer's Scrap" "Orb of Transmutation" "Orb of Augmentation" "Perandus Coin"
 SetTextColor             255 255 255
 SetBackgroundColor       0 0 0
 SetBorderColor           255 255 255
