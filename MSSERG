@@ -10,3 +10,20 @@ SetBorderColor           0 0 0
 SetFontSize              24
 
 # - - - - - - - - - - - -
+
+Show
+BaseType                 "Mirror Shard" "Exalted Shard"
+SetTextColor             255 255 0
+SetBackgroundColor       0 0 0
+SetBorderColor           255 255 0
+SetFontSize              45
+PlayAlertSoundPositional 1 300
+
+Show
+BaseType                 "Shard"
+SetTextColor             160 160 160
+SetBackgroundColor       0 0 0
+SetBorderColor           160 160 160
+SetFontSize              24
+
+# - - - - - - - - - - - -
