@@ -2,7 +2,7 @@
 # Версия 1.0, обновлён 07.04.2017
 
 
-Hide
+Show
 BaseType                 "Scroll of Wisdom" "Portal Scroll"
 SetTextColor             160 160 160
 SetBackgroundColor       0 0 0
@@ -268,3 +268,4 @@ SetFontSize              24
 PlayAlertSoundPositional 16 5
 
 # - - - - - - - - - - - -
+
