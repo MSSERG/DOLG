@@ -261,6 +261,16 @@ SetFontSize              24
 # - - - - - - - - - - - -
 
 Show
+BaseType                 "Steel Ring" "Opal Ring" "Blue Pearl Amulet" "Marble Amulet" "Crystal Belt" "Vanguard Belt"
+SetTextColor             255 255 0
+SetBackgroundColor       0 0 0
+SetBorderColor           255 255 0
+SetFontSize              45
+PlayAlertSoundPositional 6 150
+
+# - - - - - - - - - - - -
+
+Show
 BaseType                 "Fragment of the Hydra" "Fragment of the Phoenix" "Fragment of the Minotaur" "Fragment of the Chimera" "Mortal Ignorance" "Mortal Rage" "Mortal Grief" "Mortal Hope"
 SetTextColor             255 64 64
 SetBackgroundColor       64 32 64
@@ -377,3 +387,4 @@ SetBorderColor           160 160 160
 SetFontSize              24
 
 # - - - - - - - - - - - -
+
