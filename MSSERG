@@ -1,5 +1,5 @@
 # Личный лут-фильтр игрока MSSERG
-# Версия 1.0, обновлён 07.04.2017
+# Версия 1.1, обновлён 08.04.2017
 
 
 Show
@@ -267,6 +267,14 @@ SetBackgroundColor       0 0 0
 SetBorderColor           255 255 0
 SetFontSize              45
 PlayAlertSoundPositional 6 150
+
+Show
+Class                    "Rings" "Amulet" "Belts"
+Rarity                   = Rare
+SetTextColor             255 255 64
+SetBackgroundColor       0 0 0
+SetBorderColor           255 255 64
+SetFontSize              24
 
 # - - - - - - - - - - - -
 
