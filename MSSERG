@@ -107,6 +107,36 @@ SetFontSize              24
 # - - - - - - - - - - - -
 
 Show
+Rarity                   = Unique
+SetBorderColor           160 96 32
+SetFontSize              24
+
+Show
+LinkedSockets            = 6
+SetTextColor             128 0 0
+SetBackgroundColor       160 160 160
+SetBorderColor           128 0 0
+SetFontSize              24
+PlayAlertSoundPositional 13 25
+
+Show
+Sockets                  = 6
+SetTextColor             64 0 0
+SetBackgroundColor       192 192 192
+SetBorderColor           64 0 0
+SetFontSize              24
+PlayAlertSoundPositional 10 10
+
+Show
+SocketGroup              "RGB"
+SetTextColor             32 160 64
+SetBackgroundColor       0 0 0
+SetBorderColor           32 160 64
+SetFontSize              24
+
+# - - - - - - - - - - - -
+
+Show
 Class                    "Flasks"
 Quality                  > 0
 SetTextColor             0 192 0
@@ -220,3 +250,4 @@ SetBorderColor           255 255 128
 SetFontSize              24
 
 # - - - - - - - - - - - -
+
