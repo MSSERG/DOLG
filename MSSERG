@@ -405,3 +405,27 @@ Rarity                   = Rare
 SetFontSize              24
 
 # - - - - - - - - - - - -
+
+Hide
+ItemLevel                > 60
+Rarity                   = Normal
+SetTextColor             255 255 255 160
+SetBackgroundColor       0 0 0 160
+SetBorderColor           255 255 255 160
+SetFontSize              20
+
+Hide
+ItemLevel                > 60
+Rarity                   = Magic
+SetTextColor             0 128 255 160
+SetBackgroundColor       0 0 0 160
+SetBorderColor           0 128 255 160
+SetFontSize              20
+
+#Hide
+#ItemLevel                > 60
+#Rarity                   = Rare
+#SetTextColor             255 255 0 160
+#SetBackgroundColor       0 0 0 160
+#SetBorderColor           255 255 0 160
+#SetFontSize              20
