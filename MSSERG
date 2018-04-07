@@ -52,7 +52,7 @@ SetFontSize              24
 PlayAlertSoundPositional 2 10
 
 Show
-BaseType                 "Mirror of Kalandra" "Eternal Orb" "Exalted Orb" "Divine Orb" "Albino Rhoa Feather" "Fishing Rod"
+BaseType                 "Mirror of Kalandra" "Ancient Reliquary Key" "Eternal Orb" "Exalted Orb" "Divine Orb" "Albino Rhoa Feather" "Fishing Rod"
 SetTextColor             255 255 0
 SetBackgroundColor       0 0 0
 SetBorderColor           255 255 0
@@ -60,3 +60,4 @@ SetFontSize              45
 PlayAlertSoundPositional 1 300
 
 # - - - - - - - - - - - -
+
