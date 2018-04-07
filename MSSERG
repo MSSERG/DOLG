@@ -306,30 +306,21 @@ PlayAlertSoundPositional 8 35
 
 Show
 ShapedMap                True
-DropLevel                >= 78
+DropLevel                >= 73
 Class                    "Maps"
-SetTextColor             192 0 0
+SetTextColor             255 255 0
 SetBackgroundColor       255 0 0
 SetBorderColor           0 0 0
 SetFontSize              24
 PlayAlertSoundPositional 16 10
 
+
 Show
 ShapedMap                True
-DropLevel                >= 73
+DropLevel                >= 68
 Class                    "Maps"
-SetTextColor             255 0 0
+SetTextColor             200 200 200
 SetBackgroundColor       255 255 0
-SetBorderColor           0 0 0
-SetFontSize              24
-PlayAlertSoundPositional 16 10
-
-
-Show
-ShapedMap                True
-Class                    "Maps"
-SetTextColor             255 0 0
-SetBackgroundColor       255 255 255
 SetBorderColor           0 0 0
 SetFontSize              24
 PlayAlertSoundPositional 16 10
