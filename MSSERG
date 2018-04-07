@@ -136,3 +136,69 @@ SetFontSize              24
 PlayAlertSoundPositional 12 10
 
 # - - - - - - - - - - - -
+
+Show
+Class                    "Divination Card"
+SetTextColor             128 192 255
+SetBackgroundColor       64 32 64
+SetBorderColor           128 192 255
+SetFontSize              24
+PlayAlertSoundPositional 7 100
+
+Show
+BaseType                 "Prophecy"
+SetTextColor             224 96 192
+SetBackgroundColor       64 32 64
+SetBorderColor           224 96 192
+SetFontSize              24
+PlayAlertSoundPositional 14 100
+
+Show
+BaseType                 "Remnant of Corruption"
+SetTextColor             255 32 0
+SetBackgroundColor       64 32 64
+SetBorderColor           255 32 0
+SetFontSize              24
+PlayAlertSoundPositional 5 15
+
+Show
+BaseType                 "Essence"
+SetTextColor             0 128 255
+SetBackgroundColor       64 32 64
+SetBorderColor           0 128 255
+SetFontSize              24
+PlayAlertSoundPositional 11 10
+
+Show
+BaseType                 "Leaguestone"
+SetTextColor             0 255 255
+SetBackgroundColor       64 32 64
+SetBorderColor           0 255 255 
+SetFontSize              24
+PlayAlertSoundPositional 16 10
+
+Show
+Class                    "Piece"
+SetTextColor             160 255 160
+SetBackgroundColor       64 32 64
+SetBorderColor           160 255 160
+SetFontSize              24
+PlayAlertSoundPositional 16 50
+
+Show
+BaseType                 "Divine Vessel"
+SetTextColor             0 160 255
+SetBackgroundColor       64 32 64
+SetBorderColor           0 160 255
+SetFontSize              24
+PlayAlertSoundPositional 2 5
+
+Show
+Class                    "Pantheon Soul"
+SetTextColor             0 160 255
+SetBackgroundColor       64 32 64
+SetBorderColor           0 160 255
+SetFontSize              24
+PlayAlertSoundPositional 2 5
+
+# - - - - - - - - - - - -
