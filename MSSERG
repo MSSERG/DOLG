@@ -388,3 +388,14 @@ SetFontSize              24
 
 # - - - - - - - - - - - -
 
+Show
+ElderItem                True
+SetFontSize              24
+PlayAlertSoundPositional 9 100
+
+Show
+ShaperItem               True
+SetFontSize              24
+PlayAlertSoundPositional 9 50
+
+# - - - - - - - - - - - -
