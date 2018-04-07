@@ -251,3 +251,20 @@ SetFontSize              24
 
 # - - - - - - - - - - - -
 
+Show
+BaseType                 "Fragment of the Hydra" "Fragment of the Phoenix" "Fragment of the Minotaur" "Fragment of the Chimera" "Mortal Ignorance" "Mortal Rage" "Mortal Grief" "Mortal Hope"
+SetTextColor             255 64 64
+SetBackgroundColor       64 32 64
+SetBorderColor           255 64 64
+SetFontSize              24
+PlayAlertSoundPositional 15 15
+
+Show
+Class                    "Map Fragments"
+SetTextColor             192 192 192
+SetBackgroundColor       64 32 64
+SetBorderColor           192 192 192
+SetFontSize              24
+PlayAlertSoundPositional 16 5
+
+# - - - - - - - - - - - -
