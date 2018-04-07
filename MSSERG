@@ -202,3 +202,21 @@ SetFontSize              24
 PlayAlertSoundPositional 2 5
 
 # - - - - - - - - - - - -
+
+Show
+Class                    "Jewel"
+Rarity                   = Magic
+SetTextColor             32 96 192
+SetBackgroundColor       0 0 0
+SetBorderColor           32 96 192
+SetFontSize              24
+
+Show
+Class                    "Jewel"
+Rarity                   = Rare
+SetTextColor             255 255 128
+SetBackgroundColor       0 0 0
+SetBorderColor           255 255 128
+SetFontSize              24
+
+# - - - - - - - - - - - -
