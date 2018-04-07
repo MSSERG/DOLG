@@ -78,3 +78,30 @@ SetFontSize              45
 PlayAlertSoundPositional 6 15
 
 # - - - - - - - - - - - -
+
+Show
+BaseType                 "Item Quantity Support" "Enlighten" "Empower" "Enhance" "Vaal Breach" "Portal" "Detonate Mines" "Added Chaos Damage" "Increased Duration"
+SetTextColor             255 255 0
+SetBackgroundColor       0 0 0
+SetBorderColor           255 255 0
+SetFontSize              45
+PlayAlertSoundPositional 4 150
+
+Show
+Class                    "Gem"
+BaseType                 "Vaal"
+SetTextColor             0 255 255
+SetBackgroundColor       0 0 0
+SetBorderColor           0 255 255 
+SetFontSize              24
+PlayAlertSoundPositional 5 5
+
+Show
+Class                    "Gem"
+Quality                  > 0
+SetTextColor             0 128 128
+SetBackgroundColor       0 0 0
+SetBorderColor           0 128 128 
+SetFontSize              24
+
+# - - - - - - - - - - - -
