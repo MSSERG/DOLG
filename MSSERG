@@ -61,3 +61,20 @@ PlayAlertSoundPositional 1 300
 
 # - - - - - - - - - - - -
 
+Show
+BaseType                 "Splinter"
+SetTextColor             0 128 255
+SetBackgroundColor       0 0 0
+SetBorderColor           0 128 255
+SetFontSize              24
+PlayAlertSoundPositional 3 3
+
+Show
+BaseType                 "Blessing" "Breachstone"
+SetTextColor             255 255 0
+SetBackgroundColor       0 0 0
+SetBorderColor           255 255 0
+SetFontSize              45
+PlayAlertSoundPositional 6 15
+
+# - - - - - - - - - - - -
