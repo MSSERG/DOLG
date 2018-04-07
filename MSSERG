@@ -284,7 +284,7 @@ SetTextColor             255 0 0
 SetBackgroundColor       255 255 255
 SetBorderColor           255 0 0
 SetFontSize              24
-PlayAlertSoundPositional 8 15
+PlayAlertSoundPositional 8 35
 
 Show
 ShapedMap                True
