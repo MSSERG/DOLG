@@ -119,3 +119,20 @@ Class                    "Utility Flasks"
 SetFontSize              24
 
 # - - - - - - - - - - - -
+
+Show
+Class                    "Quest Items"
+SetTextColor             224 0 224
+SetBackgroundColor       0 0 0
+SetBorderColor           224 0 224
+SetFontSize              24
+
+Show
+BaseType                 "Treasure Key" "Golden Key" "Silver Key" "Bane of the Loyal" "Cogs of Disruption" "Cube Of Absorption" "Heart of the Gargoyle" "Orb of Elemental Dispersion" "Portal Shredder" "Rod of Detonation" "Sand of Eternity"
+SetTextColor             255 192 255
+SetBackgroundColor       0 0 0
+SetBorderColor           255 192 255
+SetFontSize              24
+PlayAlertSoundPositional 12 10
+
+# - - - - - - - - - - - -
