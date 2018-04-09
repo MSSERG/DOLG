@@ -80,7 +80,7 @@ PlayAlertSoundPositional 6 15
 # - - - - - - - - - - - -
 
 Show
-BaseType                 "Item Quantity Support" "Enlighten" "Empower" "Enhance" "Vaal Breach" "Portal" "Detonate Mines" "Added Chaos Damage" "Increased Duration"
+BaseType                 "Item Quantity Support" "Enlighten" "Empower" "Enhance" "Vaal Breach" "Portal" "Detonate Mines" "Added Chaos Damage"
 SetTextColor             255 255 0
 SetBackgroundColor       0 0 0
 SetBorderColor           255 255 0
